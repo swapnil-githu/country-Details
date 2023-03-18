@@ -1,0 +1,42 @@
+
+body{
+    background: linear-gradient(gray,white);
+    text-align: center;
+    border: 2px solid red;
+    background-repeat: no-repeat;
+}
+.main{
+    color: rgba(52, 128, 196);
+    font-family:Arial ;
+    
+} 
+.main h1{
+    background: rgb(160, 160, 148);
+}   
+name{
+    text-align:center;
+}
+
+select{
+width: 220px;
+height: 40px;
+border-radius: 5px;
+background-color: lightgrey;
+font-weight: bolder;
+
+}
+
+#data
+{
+    margin:2px;
+}
+
+option
+{
+    font-family: 'League Gothic', sans-serif;
+}
+
+a{
+    font-weight: bolder;
+    color: aliceblue;
+}
